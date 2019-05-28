@@ -7,5 +7,4 @@ the way this project will be tested will be through a basic game (i.e. snake) wh
 ---
 the machine learning will be coded and developed in jupyter notebook using tensorflow with some datasets potentially being used from keras or taken from [greerviau's SnakeAI](https://github.com/greerviau/SnakeAI)
 ---
-branches will be divided into machine-learning and game-dev. this way both sides of the project can be worked on and submitted to master in pull requests.
----
+
